@@ -1,82 +1,26 @@
-#MZZ
-#13/05/2022
-#Lab 3
+#Mzz
+#18 de febrero del 2022
 
+# Problema 1 --------------------------------------------------------------
 
-# Base de datos -----------------------------------------------------------
+Xs <- c(6, 4, 1, 3)
+Ys <- c(1, 3, 4, 2)
+sum(Xs)
+sum(Ys)
+prod(Xs)
+prod(Ys)
+sum(Xs, Ys)
+prod(Xs, Ys)
 
+# Problema 2 --------------------------------------------------------------
 
-wins = c(52, 51, 47, 47, 42)
-losses = c(20, 21, 25, 25, 30)
-win_loss_perc = wins/(wins + losses)
-win_loss_perc
+GrupoA <- c(80, 90, 90, 100)
+GrupoB <- c(60, 65, 65, 70, 70, 70, 75, 75, 80, 80, 80, 80, 80, 85, 100)
+median(GrupoA)
+median(GrupoB)
 
-teams = c("UtJ", "PhS", "DnN", "LAC", "DIM")
+# Problema 3 --------------------------------------------------------------
 
-#Primer elemento
-wins [1]
-#Tercer elemento 
-losses [3]
-#ultimo nombre 
-teams [5]
-
-length(teams)
-teams[length(teams)]
-sort(wins, decreasing = T)
-rev(wins)
-
-# Subconjunto -------------------------------------------------------------
-
-
-wins[teams=="UtJ"]
-teams [wins > 40]
-teams [losses >=10 & losses<= 29]
-
-# Factores y variables  ---------------------------------------------------
-
-
-num_vector <- c(1, 2, 3, 1, 2, 3, 2)
-first_factor <- factor(num_vector)
-first_factor
-
-
-teams = factor(teams)
-teams
-
-
-# Secuencias --------------------------------------------------------------
-
-1:5
-1:10
--3:7
-10:1
-
-# Vectores repetidos ------------------------------------------------------
-
-
-seq(from= 1, to= 10)
-seq(from= 1, to= 10, by=1)
-seq(from= 1, to= 10, by=2)
-seq(from= -5, to= 5, by=1)
-
-rep(1, times= 5)
-rep(c(1,2), times= 3)
-rep(c(1,2), each= 2)
-rep(c(1,2), length.out= 5)
-rep(c(3,2,1),times= 3, each= 2)
-
-
-dat= data.frame(teams= teams, wins=wins, losses=losses, WLperc=win_loss_perc)
-
-dat$teams
-dat$wins[1]
-dat$wins[5]
-
-
-dat$wins[dat$teams=="UtJ"]
-dat$teams[dat$losses >=10 & dat$losses <= 29]
-
-wins[1]- wins
-
-
+promedio80 <- c(87, 72, 85, 75)
+median(promedio80)
 
