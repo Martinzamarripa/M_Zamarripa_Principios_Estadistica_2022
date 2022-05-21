@@ -15,10 +15,32 @@ Semana 3:
 
 :dart: 02/02/2022: sala de computo instalar credenciales y proyecto.
 
+[HW_01](Tareas/HW-1.R)
+
+[HW_01.pdf](Tareas/HW-1.pdf)
+
+[Lab1](Laboratorios/Lab1.R)
+
+[Lab1.pdf]()
+
+[Clase3]()
+
+[Clase3.pdf]()
 
 Semana 4:
 
 :dart: sala de computo realizacion de graficas
+
+[Lab2](Laboratorios/Lab2.R)
+[Lab2.pdf]()
+
+[HW_02](Tareas/HW-2.R)
+
+[HW_03](Tareas/HW-3.R)
+
+[HW_03.pdf](Tareas/HW-3.pdf)
+
+[Clase4]
 
 
 Semana 5:
@@ -27,6 +49,7 @@ Semana 5:
 
 :dart: 17/02/2022: sala de cómputo estadístico diferencial
 
+Semana 6:
 
 :dart: 23/02/2022: recogida de datos Semillas de encino rojo
 
@@ -63,7 +86,8 @@ Semana 10:
 
 :dart: 24/03/2022: Examen
 
-
+[Lab6examen](Laboratorios/Semana6.Lab.R)
+ 
 
 Semana 11:
 
@@ -98,6 +122,9 @@ Semana 15:
 :dart: 05/11/2022: segundo examen: datos de regresión lineal
 
 :dart: 05/12/2022: Actualización de README, solución de dudas
+
+[Lab3](Laboratorios/Lab3.R)
+
 
 
 Semana 16:
