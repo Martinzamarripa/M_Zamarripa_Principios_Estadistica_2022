@@ -21,9 +21,7 @@ Semana 3:
 
 [Lab1](Laboratorios/Lab1.R)
 
-[Lab1.pdf]()
-
-[Clase3]()
+[Clase3](Clases/Semana3.R)
 
 [Clase3.pdf]()
 
@@ -32,7 +30,8 @@ Semana 4:
 :dart: sala de computo realizacion de graficas
 
 [Lab2](Laboratorios/Lab2.R)
-[Lab2.pdf]()
+
+[Lab2.pdf](Laboratorios/Lab-2.pdf)
 
 [HW_02](Tareas/HW-2.R)
 
@@ -40,14 +39,19 @@ Semana 4:
 
 [HW_03.pdf](Tareas/HW-3.pdf)
 
-[Clase4]
+[Clase4](Clases/Semana4.R)
 
+[Clase4.pdf]()
 
 Semana 5:
 
 :dart: 16/02/2022: sala de computo trabajo con datos de inventario
 
 :dart: 17/02/2022: sala de cómputo estadístico diferencial
+
+[Clase5](Clases/Semana5.R)
+
+[Clase5.pdf]()
 
 Semana 6:
 
@@ -124,6 +128,8 @@ Semana 15:
 :dart: 05/12/2022: Actualización de README, solución de dudas
 
 [Lab3](Laboratorios/Lab3.R)
+
+[Lab3.pd](Laboratorios/Lab3.pdf)
 
 
 
