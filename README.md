@@ -52,7 +52,7 @@ Semana 5:
 
 [Clase5](Clases/Semana5.R)
 
-[Clase5](PDF-Semanas/Semana5.pdf)
+[Clase5.pdf](PDF-Semanas/Semana5.pdf)
 
 
 Semana 6:
@@ -77,7 +77,7 @@ Semana 8:
 
 :dart: 17/03/2022 --------------------------------------
 
-[Clase8](Clases/semana 8.R)
+[Clase8](Clases/Semana8.R)
 
 
 Semana 9:
@@ -87,7 +87,7 @@ Semana 9:
 :dart: 24/03/2022: ------------------------------------
 
 
-[Clase9](Clases/semana 9.R)
+[Clase9](Clases/Semana9.R)
 
 
 Semana 10:
@@ -98,7 +98,7 @@ Semana 10:
 
 [Lab6examen](Laboratorios/Semana6.Lab.R)
 
-[Clase10](Clases/semana 10.R)
+[Clase10](Clases/Semana10.R)
 
 Semana 11:
 
@@ -106,7 +106,7 @@ Semana 11:
 
 :dart: 31/03/2022: revisión de examen
 
-[Clase11](Clases/semana 11.R)
+[Clase11](Clases/Semana11.R)
 
 
 Semana 12:
@@ -114,7 +114,7 @@ Semana 12:
 :dart: 04/06/2022: revisión de semillas de Encino rojo en el invernadero
 
 :dart: 04/07/2022: exposición de problema de variables dependientes
-[Clase12]()
+
 
 Semana 13:
 
@@ -122,7 +122,7 @@ Semana 13:
 
 :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
-[Clase13](Clases/semana 13.R)
+[Clase13](Clases/semana13.R)
 
 Semana 14:
 
@@ -130,7 +130,7 @@ Semana 14:
 
 :dart: 05/05/2022: Día libre
 
-[Clase14](Clases/semana 14.R)
+[Clase14](Clases/Semana14.R)
 
 Semana 15:
 
