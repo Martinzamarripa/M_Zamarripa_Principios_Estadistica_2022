@@ -10,4 +10,4 @@ semillass <-read.csv("Clases/semillas.csv" , header = TRUE)
 
 boxplot(semillass$Peso_gr >40)
 
-revisar toda la fila [524,]
+
