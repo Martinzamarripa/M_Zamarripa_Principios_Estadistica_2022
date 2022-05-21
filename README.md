@@ -23,7 +23,7 @@ Semana 3:
 
 [Clase3](Clases/Semana3.R)
 
-[Clase3.pdf]()
+[Clase3.pdf](PDF Semanas/Semana3.pdf)
 
 Semana 4:
 
@@ -41,7 +41,8 @@ Semana 4:
 
 [Clase4](Clases/Semana4.R)
 
-[Clase4.pdf]()
+[Clase4.pdf](PDF Semanas/Semana4.pdf)
+
 
 Semana 5:
 
@@ -51,7 +52,8 @@ Semana 5:
 
 [Clase5](Clases/Semana5.R)
 
-[Clase5.pdf]()
+[Clase5](PDF Semanas/Semana5.pdf)
+
 
 Semana 6:
 
@@ -59,7 +61,7 @@ Semana 6:
 
 :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
 
-[DIA LIBRE]
+[Clase6](Clases/Semana6.R)
 
 Semana 7:
 
@@ -67,6 +69,7 @@ Semana 7:
 
 :dart: 03/03/2022: preparacion de semillas para geerminacion de invernadero
 
+[Clase7](Clases/Semana7.R)
 
 Semana 8:
 
@@ -74,7 +77,7 @@ Semana 8:
 
 :dart: 17/03/2022 --------------------------------------
 
-[DIA LIBRE]
+[Clase8](Clases/semana 8.R)
 
 
 Semana 9:
@@ -84,6 +87,9 @@ Semana 9:
 :dart: 24/03/2022: ------------------------------------
 
 
+[Clase9](Clases/semana 9.R)
+
+
 Semana 10:
 
 :dart: 23/03/2022: sala de computo pruebas de t en base de datos de madera
@@ -91,7 +97,8 @@ Semana 10:
 :dart: 24/03/2022: Examen
 
 [Lab6examen](Laboratorios/Semana6.Lab.R)
- 
+
+[Clase10](Clases/semana 10.R)
 
 Semana 11:
 
@@ -99,13 +106,15 @@ Semana 11:
 
 :dart: 31/03/2022: revisión de examen
 
+[Clase11](Clases/semana 11.R)
+
 
 Semana 12:
 
 :dart: 04/06/2022: revisión de semillas de Encino rojo en el invernadero
 
 :dart: 04/07/2022: exposición de problema de variables dependientes
-
+[Clase12]()
 
 Semana 13:
 
@@ -113,6 +122,7 @@ Semana 13:
 
 :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
+[Clase13](Clases/semana 13.R)
 
 Semana 14:
 
@@ -120,6 +130,7 @@ Semana 14:
 
 :dart: 05/05/2022: Día libre
 
+[Clase14](Clases/semana 14.R)
 
 Semana 15:
 
@@ -129,9 +140,7 @@ Semana 15:
 
 [Lab3](Laboratorios/Lab3.R)
 
-[Lab3.pd](Laboratorios/Lab3.pdf)
-
-
+[Lab3.pdf](Laboratorios/Lab3.pdf)
 
 Semana 16:
 
