@@ -2,10 +2,6 @@
 #03/02/2022
 #Sesion semana 3 sala de computo 
 
-
-# Muestra basica de R -----------------------------------------------------
-
-#Kenny Rincon
 # Operaciones basicas de R 
 2 + 2
 8 / 4
