@@ -23,7 +23,7 @@ Semana 3:
 
 [Clase3](Clases/Semana3.R)
 
-[Clase3.pdf](PDF Semanas/Semana3.pdf)
+[Clase3.pdf](PDF-Semanas/Semana3.pdf)
 
 Semana 4:
 
@@ -41,7 +41,7 @@ Semana 4:
 
 [Clase4](Clases/Semana4.R)
 
-[Clase4.pdf](PDF Semanas/Semana4.pdf)
+[Clase4.pdf](PDF-Semanas/Semana4.pdf)
 
 
 Semana 5:
@@ -52,7 +52,7 @@ Semana 5:
 
 [Clase5](Clases/Semana5.R)
 
-[Clase5](PDF Semanas/Semana5.pdf)
+[Clase5](PDF-Semanas/Semana5.pdf)
 
 
 Semana 6:
