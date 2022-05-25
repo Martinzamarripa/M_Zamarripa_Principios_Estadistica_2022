@@ -62,6 +62,7 @@ Semana 6:
 :dart: 24/02/2022: continuacion de recoleccion de datos de semillas
 
 [Clase6](Clases/Semana6.R)
+[Clase6.pdf]()
 
 Semana 7:
 
@@ -70,6 +71,7 @@ Semana 7:
 :dart: 03/03/2022: preparacion de semillas para geerminacion de invernadero
 
 [Clase7](Clases/Semana7.R)
+[Clase7.pdf]()
 
 Semana 8:
 
@@ -78,7 +80,7 @@ Semana 8:
 :dart: 17/03/2022 --------------------------------------
 
 [Clase8](Clases/Semana8.R)
-
+[Clase8.pdf]()
 
 Semana 9:
 
@@ -88,6 +90,7 @@ Semana 9:
 
 
 [Clase9](Clases/Semana9.R)
+[Clase9.pdf]()
 
 
 Semana 10:
@@ -107,8 +110,7 @@ Semana 11:
 :dart: 31/03/2022: revisión de examen
 
 [Clase11](Clases/Semana11.R)
-
-
+[Clase11.pdf]()
 Semana 12:
 
 :dart: 04/06/2022: revisión de semillas de Encino rojo en el invernadero
@@ -123,6 +125,7 @@ Semana 13:
 :dart: 28/04/2022: sala de computo problemas de ejercicio de correlacion
 
 [Clase13](Clases/semana13.R)
+[Clase13.pdf]()
 
 Semana 14:
 
@@ -131,7 +134,7 @@ Semana 14:
 :dart: 05/05/2022: Día libre
 
 [Clase14](Clases/Semana14.R)
-
+[Clase14.pdf]()
 Semana 15:
 
 :dart: 05/11/2022: segundo examen: datos de regresión lineal
