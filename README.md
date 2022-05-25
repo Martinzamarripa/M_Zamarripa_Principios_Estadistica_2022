@@ -145,3 +145,5 @@ Semana 15:
 Semana 16:
 
 :dart:Preparación del PIA
+
+[Grafica](Grafica.Martin/Graficas.jpeg)
