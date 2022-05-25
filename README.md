@@ -63,7 +63,7 @@ Semana 6:
 
 [Clase6](Clases/Semana6.R)
 
-[Clase6.pdf]()
+[Clase6.pdf](PDF-Semanas/semana-6.pdf)
 
 Semana 7:
 
@@ -73,7 +73,7 @@ Semana 7:
 
 [Clase7](Clases/Semana7.R)
 
-[Clase7.pdf]()
+[Clase7.pdf](PDF-Semanas/semana-7.pdf)
 
 Semana 8:
 
@@ -83,7 +83,7 @@ Semana 8:
 
 [Clase8](Clases/Semana8.R)
 
-[Clase8.pdf]()
+[Clase8.pdf](PDF-Semanas/semana-8.pdf)
 
 Semana 9:
 
@@ -94,7 +94,7 @@ Semana 9:
 
 [Clase9](Clases/Semana9.R)
 
-[Clase9.pdf]()
+[Clase9.pdf](PDF-Semanas/semana-9.pdf)
 
 
 Semana 10:
@@ -115,7 +115,7 @@ Semana 11:
 
 [Clase11](Clases/Semana11.R)
 
-[Clase11.pdf]()
+[Clase11.pdf](PDF-Semanas/semana-11.pdf)
 
 Semana 12:
 
@@ -132,7 +132,7 @@ Semana 13:
 
 [Clase13](Clases/semana13.R)
 
-[Clase13.pdf]()
+[Clase13.pdf](PDF-Semanas/semana-13.pdf)
 
 Semana 14:
 
@@ -142,7 +142,7 @@ Semana 14:
 
 [Clase14](Clases/Semana14.R)
 
-[Clase14.pdf]()
+[Clase14.pdf](PDF-Semanas/semana-14.pdf)
 
 Semana 15:
 
@@ -157,5 +157,7 @@ Semana 15:
 Semana 16:
 
 :dart:Preparación del PIA
+
+[Clase16.pdf](PDF-Semanas/semana-16.pdf)
 
 [Grafica](Grafica.Martin/Graficas.jpeg)
